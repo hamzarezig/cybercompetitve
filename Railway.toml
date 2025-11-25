@@ -1,0 +1,4 @@
+# Railway.toml
+build = {
+  command = "git clone -b 2.0 https://github.com/QingdaoU/OnlineJudgeDeploy.git && cd OnlineJudgeDeploy && docker-compose up -d"
+}
