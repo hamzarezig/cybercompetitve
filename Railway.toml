@@ -1,4 +1,0 @@
-# Railway.toml
-
-[deploy]
-  command = "./start.sh"
