@@ -1,0 +1,6 @@
+# Railway.toml
+[build]
+  command = "echo Build step (optional)"
+
+[deploy]
+  command = "./start.sh"
